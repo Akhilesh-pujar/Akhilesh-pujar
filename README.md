@@ -4,11 +4,9 @@
 <h1 align="center">Hi 👋, I'm Akhilesh S Pujar</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<img align = "right" alt="coding" width="400px" src="https://i.pinimg.com/originals/01/d7/17/01d7176e77aebf3b461562899efcf47f.gif" />
+<img align ="right" width="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif" alt="akhilesh-pujar" /> </p>
 
-<p align="left"> <img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" alt="akhilesh-pujar" /> </p>
-
-- 🔭 I’m currently working on **Admin Dashboard**
+- 🔭 I’m currently working on **improving my skills by doing projects**
 
 - 💬 Ask me about **react, material UI**
 
