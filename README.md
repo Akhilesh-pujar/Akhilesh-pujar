@@ -1,4 +1,4 @@
-![logo](https://github.com/Akhilesh-pujar/Akhil-crypto780/blob/main/Purple%20Illustrated%20Game%20Streaming%20Twitch%20Banner.png)
+![logo](https://github.com/Akhilesh-pujar/Akhil/blob/main/Purple%20Illustrated%20Game%20Streaming%20Twitch%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Akhilesh S Pujar</h1>
@@ -6,7 +6,7 @@
 
 <img align = "right" alt="coding" width="400px" src="https://i.pinimg.com/originals/01/d7/17/01d7176e77aebf3b461562899efcf47f.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-pujar&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-pujar" /> </p>
+<p align="left"> <img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" alt="akhilesh-pujar" /> </p>
 
 - 🔭 I’m currently working on **Admin Dashboard**
 
