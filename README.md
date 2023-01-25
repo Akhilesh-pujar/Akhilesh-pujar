@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Akhilesh-pujar/Akhilesh-pujar/main/asset/Akhileshbanner.png)
+![logo](https://raw.githubusercontent.com/Akhilesh-pujar/Akhilesh-pujar/main/asset/Akhilbanner.png)
 
 
 <h1 align="center">Hi 👋, I'm Akhilesh S Pujar</h1>
