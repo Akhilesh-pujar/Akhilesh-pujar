@@ -1,4 +1,4 @@
-![logo](https://github.com/Akhilesh-pujar/Akhil/blob/main/Purple%20Illustrated%20Game%20Streaming%20Twitch%20Banner.png)
+![logo](https://raw.githubusercontent.com/Akhilesh-pujar/Akhilesh-pujar/main/asset/Akhileshbanner.png)
 
 
 <h1 align="center">Hi 👋, I'm Akhilesh S Pujar</h1>
