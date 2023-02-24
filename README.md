@@ -1,4 +1,7 @@
-![logo](https://raw.githubusercontent.com/Akhilesh-pujar/Akhilesh-pujar/main/asset/Akhilbanner.png)
+
+
+<img align ="center" width="50px" src="https://user-images.githubusercontent.com/57571363/221091989-138a889e-07ef-43d1-835d-10c75df501b5.png" alt="akhilesh-pujar" /> </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Akhilesh S Pujar</h1>
@@ -12,7 +15,7 @@
 
 - 📫 How to reach me **akhileshpujar796@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FWxitjmNs2MNjV8XEM0SIvLEVRpdIXzZ/view?usp=sharing](https://drive.google.com/file/d/1FWxitjmNs2MNjV8XEM0SIvLEVRpdIXzZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FWxitjmNs2MNjV8XEM0SIvLEVRpdIXzZ/view?usp=sharing)
 
 - ⚡ Fun fact **I am not funny..**
 
