@@ -9,15 +9,15 @@
 
 <img align ="right" width="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif" alt="akhilesh-pujar" /> </p>
 
-- 🔭 I’m currently working on **improving my skills by doing projects**
+- 🔭 I’m currently working on **Next.js & Typescript also Sanity**
 
-- 💬 Ask me about **react, material UI**
+- 💬 Ask me about **Anything regarding web-dev**
 
 - 📫 How to reach me **akhileshpujar796@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FWxitjmNs2MNjV8XEM0SIvLEVRpdIXzZ/view?usp=sharing)
 
-- ⚡ Fun fact **I am not funny..**
+- ⚡ Fun fact **Nah I don't have one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
