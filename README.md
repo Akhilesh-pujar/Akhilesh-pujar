@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akhileshpujar796@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FWxitjmNs2MNjV8XEM0SIvLEVRpdIXzZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xCJ38WihUtcqpMXHitlwQvSFEPe77mZv/view?usp=sharing)
 
 - ⚡ Fun fact **Nah I don't have one**
 
