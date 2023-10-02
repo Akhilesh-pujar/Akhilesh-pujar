@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **akhileshpujar796@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15nB7s6YqVyF6RUuwNUR0i7QipiKfk3ml/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nWoSy_emVt__nFCRWKqSIrnH-1rVVuFc/view?usp=sharing)
 
-- ⚡ Fun fact **Nah I don't have one**
+- ⚡ Fun fact **How do you organize a space party? You "planet"!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
