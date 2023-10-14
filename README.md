@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akhileshpujar796@gmail.com**
   
-- ⚡Visit my portfolio <a href="https://akhileshpujar.vercel.app/" target="blank"/>
+- ⚡Visit my <a href="https://akhileshpujar.vercel.app/" target="blank">Portfolio</a>
 
 - 📄 Know more about my work and qualifications [Resume](https://drive.google.com/file/d/1nWoSy_emVt__nFCRWKqSIrnH-1rVVuFc/view?usp=sharing)
 
