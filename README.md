@@ -5,13 +5,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Akhilesh S Pujar</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate WEB Developer.</h3>
 
 <img align ="right" width="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif" alt="akhilesh-pujar" /> </p>
 
-- 🔭 I’m currently working on **Next.js & Typescript **
+- 🔭 I’m currently working and learning **Shadcn and Databases , basically full stack dev & trying improve my api architucture **
 
-- 💬 Ask me about **Anything regarding web-dev**
+- 💬 Ask me about **Anything regarding web-dev and os**
 
 - 📫 How to reach me **akhileshpujar796@gmail.com**
 
