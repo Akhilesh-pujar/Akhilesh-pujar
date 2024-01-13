@@ -12,7 +12,7 @@
   
 - ⚡Visit my [Portfolio](https://3-d-portfolio-liard-one.vercel.app/ )
 
-- 📄 Know more about my work and qualifications [Resume](https://drive.google.com/file/d/1nWoSy_emVt__nFCRWKqSIrnH-1rVVuFc/view?usp=sharing)
+- 📄 Know more about my work and qualifications [Resume](https://drive.google.com/file/d/1ISRtvdPBL4EL4JMi3AQEtt-lQOsWlkwn/view?usp=sharing)
 
 - ⚡ Fun fact **How do you organize a space party? You "planet"!**
 
