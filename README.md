@@ -4,7 +4,7 @@
 
  
 
-- 🔭 I’m currently working and learning **Shadcn and Databases , basically full stack dev & trying improve my api architucture.**
+- 🔭 I’m currently working and learning **Begineer Web 3.0 Blockchain, solidity ,ETH. **
 
 - 💬 Ask me about **Anything regarding web-dev (MERN), Devops**
 
