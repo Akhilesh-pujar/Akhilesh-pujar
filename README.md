@@ -14,7 +14,7 @@
 
 - 📄 Know more about my work and qualifications [Resume](https://drive.google.com/file/d/1ISRtvdPBL4EL4JMi3AQEtt-lQOsWlkwn/view?usp=sharing)
 
-- ⚡ Fun fact **How do you organize a space party? You "planet"!**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
