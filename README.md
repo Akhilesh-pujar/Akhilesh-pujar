@@ -4,7 +4,7 @@
 
  
 
-- 🔭 I’m currently working and learning **Begineer Web 3.0 Blockchain, solidity ,ETH.**
+- 🔭 I’m currently working and learning **AI/ML MCP server, A2A.**
 
 - 💬 Ask me about **Anything regarding web-dev (MERN), Devops**
 
